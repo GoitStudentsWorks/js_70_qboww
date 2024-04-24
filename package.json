@@ -1,11 +1,11 @@
 {
-  "name": "js-snow-white-n-8-devs",
+  "name": "js_70_qboww",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/js-snow-white-n-8-devs/",
+    "build": "vite build --base=/js_70_qboww/",
     "preview": "vite preview",
     "pretty": "prettier --write \"./**/*.{js,jsx,mjs,cjs,ts,tsx,json,css,html}\""
   },
